@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Pj/App-Electronics-Device-Sale/app/src/main/res/layout/activity_home.xml" value="0.31392045454545453" />
+        <entry key="..\:/Android_Pj/App-Electronics-Device-Sale/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Pj/App-Electronics-Device-Sale/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/fostt/AndroidStudioProjects/App-Electronics-Device-Sale/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/fostt/AndroidStudioProjects/App-Electronics-Device-Sale/app/src/main/res/layout/activity_main.xml" value="0.2109004739336493" />
+        <entry key="..\:/Users/fostt/AndroidStudioProjects/App-Electronics-Device-Sale/app/src/main/res/layout/activity_product.xml" value="0.38315217391304346" />
+        <entry key="..\:/Users/fostt/AndroidStudioProjects/App-Electronics-Device-Sale/app/src/main/res/layout/activity_register.xml" value="0.15975794251134645" />
+        <entry key="..\:/Users/fostt/AndroidStudioProjects/BTL/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
